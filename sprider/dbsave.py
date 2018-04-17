@@ -106,7 +106,7 @@ def load_questions_and_answer(unit_mapping, ans):
                     index += 1
     cursor.close()
 
-# load_unit()
+load_unit()
 unit_mapping = select_unit()
 
 load_images.run()

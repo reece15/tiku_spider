@@ -9,7 +9,7 @@ import threading
 
 
 headers = {
- 'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+ 'User-Agent':'Mozilla/5.0(Windows;U;WindowsNT6.1;en-us)AppleWebKit/534.50(KHTML,likeGecko)Version/5.1',
  'referer':'https://www.zujuan.com/',
  'accept-language':"zh-CN,zh;q=0.8,en;q=0.6",
  'accept-encoding':'gzip, deflate, sdch, br',
